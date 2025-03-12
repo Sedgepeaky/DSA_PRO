@@ -45,6 +45,6 @@ class Solution {
         }
     };
 
-    TC : O(n^2(logn))
+    TC : O(n^2(logn)) / [O(N^2) with normal BFS , since wt = 1, so normal bfs is more suitable]
     SC : O(n^2)
     Approach : Dijkstra Algorithm
